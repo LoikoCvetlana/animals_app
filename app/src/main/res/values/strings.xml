@@ -2,11 +2,14 @@
     <string name="app_name">animals_app</string>
 
     <string-array name="animal_database">
-        <item>Bear|bear_sound|bear1</item>
+        <item>Bear|bear_sound|bear</item>
         <item>Cat|cat_sound|cat</item>
         <item>Cow|cow_sound|caw</item>
         <item>Dog|dog_sound|dog</item>
         <item>Elephant|elephant_sound|elephant</item>
-        <item>Line|lion_sound|lion</item>
+        <item>Lion|lion_sound|lion</item>
+        <item>Owl|owl_sound|owl_image</item>
+        <item>Duck|duck_sound|duck_image</item>
+        <item>Pig|pig_sound|pig</item>
     </string-array>
 </resources>
